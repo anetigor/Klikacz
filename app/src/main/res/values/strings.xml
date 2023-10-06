@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Klikacz</string>
+    <string name="wynik">Punkty: %s</string>
+</resources>
